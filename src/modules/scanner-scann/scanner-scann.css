@@ -1,0 +1,31 @@
+.qr__text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(35 156 245);
+    padding: 20px;
+    color: #fff;
+}
+
+.text__put input  {
+    padding-top: 10px;
+}
+
+
+.qr__btn {
+    margin: 40px 0 20px 0 !important;  
+}
+
+.button__qr-blok {
+    display: flex;
+
+    justify-content: center;
+}
+
+.button__qr-blok button {
+    margin-right: 20px;
+}
+
+.button__qr-blok button:last-child {
+    margin-right: 0;
+}
